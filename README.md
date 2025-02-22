@@ -1,4 +1,4 @@
-# 🍽️ Online Shop - Docker | Vite | React
+# Online Shop - Docker | Vite | React
 
 Welcome to the **Online Shop** project! This guide provides a structured approach to setting up, running, and managing the project. 🚀
 
